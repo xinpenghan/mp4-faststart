@@ -2,7 +2,7 @@
   
 <img alt="Vditor" src="https://xinpenghan.github.io/ShrinkV/image/logo.png" />
 <br>
-<h3>ShrinkV</h3>
+<h3>mp4 faststart</h3>
 
 <a title="MIT" target="_blank" href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square"></a>
 <br>
