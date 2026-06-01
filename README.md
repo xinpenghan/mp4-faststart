@@ -31,7 +31,7 @@ This software can place the index information at the beginning of the file, thus
 <img alt="Vditor" src="https://xinpenghan.github.io/YD-YoutubeDownloader/image/paypal.png" width="200" />
 
 ## Download link
-   - 📦 **[stable version](https://github.com/xinpenghan/mp4-faststart/releases///)**
+   - 📦 **[stable version](https://github.com/xinpenghan/mp4-faststart/releases//)**
 
 <br>
 
