@@ -16,9 +16,9 @@
 
 
 <br>
-When playing MP4 files using HTML5, some files require a lot of buffering before playback. This is because some software places the index information for MP4 files at the end of the file.
+使用 HTML5 播放 MP4 文件时，部分文件需要较长的缓冲时间才能播放。这是因为某些软件会将 MP4 文件的索引信息放在文件末尾。
 
-This software can place the index information at the beginning of the file, thus solving the problem of excessively long buffering times.
+本软件可以将索引信息放在文件开头，从而解决缓冲时间过长的问题。
 
 </p>
 <br>
