@@ -6,7 +6,7 @@
 
 <a title="MIT" target="_blank" href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square"></a>
 <br>
-<a href="https://github.com/xinpenghan/ShrinkV/blob/main/README_zh.md">中文</a> &nbsp;|&nbsp; <a href="https://github.com/xinpenghan/ShrinkV/blob/main/README.md">English</a>
+<a href="https://github.com/xinpenghan/mp4-faststart/blob/main/README_zh.md">中文</a> &nbsp;|&nbsp; <a href="https://github.com/xinpenghan/mp4-faststart/blob/main/README.md">English</a>
 
 </div>
 
