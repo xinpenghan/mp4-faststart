@@ -43,6 +43,6 @@ This software can place the index information at the beginning of the file, thus
 
 ## Screenshot
 
-<img alt="Vditor" src="https://xinpenghan.github.io/ShrinkV/image/5.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/mp4-faststart/image/1.png" />
 
 

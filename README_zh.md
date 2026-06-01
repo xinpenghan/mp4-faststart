@@ -44,5 +44,5 @@
 
 ## 屏幕截图
 
-<img alt="Vditor" src="https://xinpenghan.github.io/ShrinkV/image/6.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/mp4-faststart/image/1.png" />
 
